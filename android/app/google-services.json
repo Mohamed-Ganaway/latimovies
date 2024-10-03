@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429357919262",
+    "project_id": "free-to-game-8e900",
+    "storage_bucket": "free-to-game-8e900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429357919262:android:9e8f4277acf9da838ed20f",
+        "android_client_info": {
+          "package_name": "com.example.latimovies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuTSjZfmvvVZ0SDFlP7h8t3QVwORGyjdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

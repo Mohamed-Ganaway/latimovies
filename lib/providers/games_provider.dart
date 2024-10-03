@@ -1,11 +1,10 @@
 import 'dart:convert';
-
-import 'package:flutter/foundation.dart';
 import 'package:latimovies/models/detailed_game_model.dart';
 import 'package:latimovies/models/game_model.dart';
+import 'package:latimovies/providers/base_provider.dart';
 import 'package:latimovies/services/api.dart';
 
-class GamesProvider with ChangeNotifier {
+class GamesProvider extends BaseProvider {
   Api api = Api();
   bool isLoading = false;
   List<GameModel> games = [];
